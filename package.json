@@ -1,12 +1,12 @@
 {
   "name": "netacapcha",
-  "version": "0.1.0",
-  "description": "",
+  "version": "0.1.1",
+  "description": "Experimental implementation of customizable challenge-response bot denying system",
   "main": "index.js",
   "scripts": {
     "build": "tsc"
   },
-  "author": "",
+  "author": "cathiecode",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
